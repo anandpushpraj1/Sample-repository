@@ -6,5 +6,14 @@ int main(int argc, char const *argv[])
 	int c = a+b;
 	cout << c ;
 	
+	int d,e;
+	scanf("%d %d",&d,&e);
+	int f=d+e;
+	cout << f;
+	
+
+
+
+
 	return 0;
 }
